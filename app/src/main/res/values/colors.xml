@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#052a23</color>
+    <color name="colorPrimaryDark">#0b5446</color>
+    <color name="colorAccent">#0b5446</color>
+
+    <color name="colorTextRegister">#FDFEFE </color>
+    <color name="color_pink">#ff1aff</color>
+    <color name="color_far">#3385ff</color>
+    <color name="color_yellow">#ffa31a</color>
+    <color name="color_green_yellow">#88cc00</color>
+
+    <color name="lightgray">#D3D3D3</color>
+    <color name="color_bg_profile">#B0AEAE</color>
+    <color name="color_red">#ff471a</color>
+
+    <color name="navigationBarColorAttempted">#777</color>
+    <color name="navigationBarColorSkipped">#063e8b</color>
+    <color name="violet">#673ab7</color>
+    <color name="sky_blue">#0f96fe</color>
+    <color name="sky_blue_pressed">#245e61</color>
+    <color name="black">#000</color>
+    <color name="lightGreen">#76ab42</color>
+    <color name="white">#ffffff</color>
+</resources>

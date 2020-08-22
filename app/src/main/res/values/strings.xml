@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Walk Monitoring App</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="user_hint_title">USERNAME</string>
+    <string name="email_hint_title">EMAIL</string>
+    <string name="password_hint_title">PASSWORD</string>
+    <string name="confirm_password_hint_title">CONFIRM PASSWORD</string>
+    <string name="btn_txt_login">Login</string>
+    <string name="age_hint_title">AGE</string>
+</resources>
